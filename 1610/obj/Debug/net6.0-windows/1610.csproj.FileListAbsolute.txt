@@ -1,0 +1,17 @@
+G:\PRG\1610\1610\bin\Debug\net6.0-windows\1610.exe
+G:\PRG\1610\1610\bin\Debug\net6.0-windows\1610.deps.json
+G:\PRG\1610\1610\bin\Debug\net6.0-windows\1610.runtimeconfig.json
+G:\PRG\1610\1610\bin\Debug\net6.0-windows\1610.dll
+G:\PRG\1610\1610\bin\Debug\net6.0-windows\1610.pdb
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.csproj.AssemblyReference.cache
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\_1610.Form1.resources
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.csproj.GenerateResource.cache
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.AssemblyInfoInputs.cache
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.AssemblyInfo.cs
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.csproj.CoreCompileInputs.cache
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.dll
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\refint\1610.dll
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.pdb
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\1610.genruntimeconfig.cache
+G:\PRG\1610\1610\obj\Debug\net6.0-windows\ref\1610.dll
